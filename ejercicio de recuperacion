@@ -1,0 +1,47 @@
+package ejercicio.de.recuperacion1;
+
+/**
+ *
+ * @author  eduardo serafin
+ */
+public class EjercicioDeRecuperacion1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
+
+
+/*
+cadena= ([{({}()[])}])
+
+pila=" "
+ADD es de cierre?
+ADD es de cierre?
+ADD es de cierre?
+ADD es de cierre?
+ADD es de cierre?
+ADDe es de cierre? si, cierra el caracter anterior? si.
+DEL DEL
+ADDes de cierre?
+ADD es de cierre? si, cierra el caracter anterior? si.
+DEL DEL
+ADD es de cierre?
+Add es de cierre? si, cierra el caracter anterior? si.
+DEL DEL
+ADD es de cierre? si, cierra el caracter anterior? si.
+DEL DEL 
+ADD es de cierre? si, cierra el caracter anterior? si.
+DEL DEL
+ADD es de cierre? si, cierra el caracter anterior? si.
+DEL DEL
+ADD es de cierre? si, cierra el caracter anterior? si.
+DEL DEL
+
+pila vacia? TRUE   ----  cadena valida
+
+ */
